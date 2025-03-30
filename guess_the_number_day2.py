@@ -20,7 +20,7 @@ while True:
             print(f"Right! I guessed {computer}. You got it!")
             
         else:
-            print(f"Wrong! Try again. i guessed {computer")
+            print(f"Wrong! Try again. i guessed {computer}")
     
     cont = input("Do you want to continue? (yes/no): ").strip().lower()
     if cont != "yes":

@@ -28,6 +28,6 @@ while running == True:
     else:
         print("You lose!")
         print("computer choosed "+ computer)
-    if player == "exit"
+    if player == "exit":
         running = False
         break
